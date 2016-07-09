@@ -1,0 +1,97 @@
+import chapter7.Actiomn.chapter7;
+
+public final class chapter7.Actiomn extends java.lang.Enum<chapter7.Actiomn> {
+  public static final chapter7.Actiomn STOP;
+
+  public static final chapter7.Actiomn RIGHT;
+
+  public static final chapter7.Actiomn LEFT;
+
+  public static final chapter7.Actiomn UP;
+
+  public static final chapter7.Actiomn DOWN;
+
+  static {};
+    Code:
+       0: new           #1                  // class chapter7/Actiomn
+       3: dup
+       4: ldc           #16                 // String STOP
+       6: iconst_0
+       7: invokespecial #17                 // Method "<init>":(Ljava/lang/String;I)V
+      10: putstatic     #21                 // Field STOP:Lchapter7/Actiomn;
+      13: new           #1                  // class chapter7/Actiomn
+      16: dup
+      17: ldc           #23                 // String RIGHT
+      19: iconst_1
+      20: invokespecial #17                 // Method "<init>":(Ljava/lang/String;I)V
+      23: putstatic     #24                 // Field RIGHT:Lchapter7/Actiomn;
+      26: new           #1                  // class chapter7/Actiomn
+      29: dup
+      30: ldc           #26                 // String LEFT
+      32: iconst_2
+      33: invokespecial #17                 // Method "<init>":(Ljava/lang/String;I)V
+      36: putstatic     #27                 // Field LEFT:Lchapter7/Actiomn;
+      39: new           #1                  // class chapter7/Actiomn
+      42: dup
+      43: ldc           #29                 // String UP
+      45: iconst_3
+      46: invokespecial #17                 // Method "<init>":(Ljava/lang/String;I)V
+      49: putstatic     #30                 // Field UP:Lchapter7/Actiomn;
+      52: new           #1                  // class chapter7/Actiomn
+      55: dup
+      56: ldc           #32                 // String DOWN
+      58: iconst_4
+      59: invokespecial #17                 // Method "<init>":(Ljava/lang/String;I)V
+      62: putstatic     #33                 // Field DOWN:Lchapter7/Actiomn;
+      65: iconst_5
+      66: anewarray     #1                  // class chapter7/Actiomn
+      69: dup
+      70: iconst_0
+      71: getstatic     #21                 // Field STOP:Lchapter7/Actiomn;
+      74: aastore
+      75: dup
+      76: iconst_1
+      77: getstatic     #24                 // Field RIGHT:Lchapter7/Actiomn;
+      80: aastore
+      81: dup
+      82: iconst_2
+      83: getstatic     #27                 // Field LEFT:Lchapter7/Actiomn;
+      86: aastore
+      87: dup
+      88: iconst_3
+      89: getstatic     #30                 // Field UP:Lchapter7/Actiomn;
+      92: aastore
+      93: dup
+      94: iconst_4
+      95: getstatic     #33                 // Field DOWN:Lchapter7/Actiomn;
+      98: aastore
+      99: putstatic     #35                 // Field ENUM$VALUES:[Lchapter7/Actiomn;
+     102: return
+
+  public static chapter7.Actiomn[] values();
+    Code:
+       0: getstatic     #35                 // Field ENUM$VALUES:[Lchapter7/Actiomn;
+       3: dup
+       4: astore_0
+       5: iconst_0
+       6: aload_0
+       7: arraylength
+       8: dup
+       9: istore_1
+      10: anewarray     #1                  // class chapter7/Actiomn
+      13: dup
+      14: astore_2
+      15: iconst_0
+      16: iload_1
+      17: invokestatic  #43                 // Method java/lang/System.arraycopy:(Ljava/lang/Object;ILjava/lang/Object;II)V
+      20: aload_2
+      21: areturn
+
+  public static chapter7.Actiomn valueOf(java.lang.String);
+    Code:
+       0: ldc           #1                  // class chapter7/Actiomn
+       2: aload_0
+       3: invokestatic  #51                 // Method java/lang/Enum.valueOf:(Ljava/lang/Class;Ljava/lang/String;)Ljava/lang/Enum;
+       6: checkcast     #1                  // class chapter7/Actiomn
+       9: areturn
+}

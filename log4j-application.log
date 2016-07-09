@@ -1,0 +1,85 @@
+2016-07-08 12:05:40 DEBUG HelloExample:19 - This is debug : mkyong
+2016-07-08 12:05:40 INFO  HelloExample:23 - This is info : mkyong
+2016-07-08 12:05:40 WARN  HelloExample:26 - This is warn : mkyong
+2016-07-08 12:05:40 ERROR HelloExample:27 - This is error : mkyong
+2016-07-08 12:05:40 FATAL HelloExample:28 - This is fatal : mkyong
+2016-07-08 12:07:22 ERROR HelloExample2:16 - Sorry, something wrong!
+java.lang.ArithmeticException: / by zero
+	at com.mkyong.HelloExample2.divide(HelloExample2.java:24)
+	at com.mkyong.HelloExample2.main(HelloExample2.java:14)
+2016-07-08 12:15:29 DEBUG HelloExample:19 - This is debug : hong wei
+2016-07-08 12:15:29 INFO  HelloExample:23 - This is info : hong wei
+2016-07-08 12:15:29 WARN  HelloExample:26 - This is warn : hong wei
+2016-07-08 12:15:29 ERROR HelloExample:27 - This is error : hong wei
+2016-07-08 12:15:29 FATAL HelloExample:28 - This is fatal : hong wei
+2016-07-08 12:15:31 DEBUG HelloExample:19 - This is debug : hong wei
+2016-07-08 12:15:31 INFO  HelloExample:23 - This is info : hong wei
+2016-07-08 12:15:31 WARN  HelloExample:26 - This is warn : hong wei
+2016-07-08 12:15:31 ERROR HelloExample:27 - This is error : hong wei
+2016-07-08 12:15:31 FATAL HelloExample:28 - This is fatal : hong wei
+2016-07-08 12:16:27 DEBUG HelloExample:19 - This is debug : hong wei
+2016-07-08 12:16:27 INFO  HelloExample:23 - This is info : hong wei
+2016-07-08 12:16:27 WARN  HelloExample:26 - This is warn : hong wei
+2016-07-08 12:16:27 ERROR HelloExample:27 - This is error : hong wei
+2016-07-08 12:16:27 FATAL HelloExample:28 - This is fatal : hong wei
+2016-07-08 12:16:34 DEBUG HelloExample:19 - This is debug : hong wei
+2016-07-08 12:16:34 INFO  HelloExample:23 - This is info : hong wei
+2016-07-08 12:16:34 WARN  HelloExample:26 - This is warn : hong wei
+2016-07-08 12:16:34 ERROR HelloExample:27 - This is error : hong wei
+2016-07-08 12:16:34 FATAL HelloExample:28 - This is fatal : hong wei
+2016-07-08 12:16:49 DEBUG HelloExample:19 - This is debug : hong wei
+2016-07-08 12:16:49 INFO  HelloExample:23 - This is info : hong wei
+2016-07-08 12:16:49 WARN  HelloExample:26 - This is warn : hong wei
+2016-07-08 12:16:49 ERROR HelloExample:27 - This is error : hong wei
+2016-07-08 12:16:49 FATAL HelloExample:28 - This is fatal : hong wei
+2016-07-08 12:16:55 DEBUG HelloExample:19 - This is debug : hong wei
+2016-07-08 12:16:55 INFO  HelloExample:23 - This is info : hong wei
+2016-07-08 12:16:55 WARN  HelloExample:26 - This is warn : hong wei
+2016-07-08 12:16:55 ERROR HelloExample:27 - This is error : hong wei
+2016-07-08 12:16:55 FATAL HelloExample:28 - This is fatal : hong wei
+2016-07-08 12:17:18 ERROR HelloExample:27 - This is error : hong wei
+2016-07-08 12:17:18 FATAL HelloExample:28 - This is fatal : hong wei
+2016-07-08 12:17:33 INFO  HelloExample:23 - This is info : hong wei
+2016-07-08 12:17:33 WARN  HelloExample:26 - This is warn : hong wei
+2016-07-08 12:17:33 ERROR HelloExample:27 - This is error : hong wei
+2016-07-08 12:17:33 FATAL HelloExample:28 - This is fatal : hong wei
+2016-07-08 12:17:59 DEBUG HelloExample:19 - This is debug : hong wei
+2016-07-08 12:17:59 INFO  HelloExample:23 - This is info : hong wei
+2016-07-08 12:17:59 WARN  HelloExample:26 - This is warn : hong wei
+2016-07-08 12:17:59 ERROR HelloExample:27 - This is error : hong wei
+2016-07-08 12:17:59 FATAL HelloExample:28 - This is fatal : hong wei
+2016-07-08 12:18:08 DEBUG HelloExample:19 - This is debug : hong wei
+2016-07-08 12:18:08 INFO  HelloExample:23 - This is info : hong wei
+2016-07-08 12:18:08 WARN  HelloExample:26 - This is warn : hong wei
+2016-07-08 12:18:08 ERROR HelloExample:27 - This is error : hong wei
+2016-07-08 12:18:08 FATAL HelloExample:28 - This is fatal : hong wei
+2016-07-08 12:18:13 DEBUG HelloExample:19 - This is debug : hong wei
+2016-07-08 12:18:13 INFO  HelloExample:23 - This is info : hong wei
+2016-07-08 12:18:13 WARN  HelloExample:26 - This is warn : hong wei
+2016-07-08 12:18:13 ERROR HelloExample:27 - This is error : hong wei
+2016-07-08 12:18:13 FATAL HelloExample:28 - This is fatal : hong wei
+2016-07-08 12:18:22 DEBUG HelloExample:19 - This is debug : hong wei
+2016-07-08 12:18:22 INFO  HelloExample:23 - This is info : hong wei
+2016-07-08 12:18:22 WARN  HelloExample:26 - This is warn : hong wei
+2016-07-08 12:18:22 ERROR HelloExample:27 - This is error : hong wei
+2016-07-08 12:18:22 FATAL HelloExample:28 - This is fatal : hong wei
+2016-07-08 12:18:30 ERROR HelloExample:27 - This is error : hong wei
+2016-07-08 12:18:30 FATAL HelloExample:28 - This is fatal : hong wei
+2016-07-08 13:53:50 ERROR HelloExample2:16 - Sorry, something wrong!
+java.lang.ArithmeticException: / by zero
+	at com.mkyong.HelloExample2.divide(HelloExample2.java:24)
+	at com.mkyong.HelloExample2.main(HelloExample2.java:14)
+2016-07-08 15:35:45 ERROR HelloExample2:16 - java.lang.ArithmeticException: / by zero
+2016-07-09 13:33:02 ERROR HelloExample:27 - This is error : hong wei
+2016-07-09 13:33:02 FATAL HelloExample:28 - This is fatal : hong wei
+2016-07-09 13:33:05 ERROR HelloExample2:16 - java.lang.ArithmeticException: / by zero
+2016-07-09 13:33:23 ERROR HelloExample2:16 - error:java.lang.ArithmeticException: / by zero
+2016-07-09 13:33:37 ERROR HelloExample2:16 - error: java.lang.ArithmeticException: / by zero
+2016-07-09 13:33:50 ERROR HelloExample:27 - This is error : hong wei
+2016-07-09 13:33:50 FATAL HelloExample:28 - This is fatal : hong wei
+2016-07-09 13:34:04 ERROR HelloExample2:16 - java.lang.ArithmeticException: / by zero
+2016-07-09 13:34:59 ERROR HelloExample2:16 - some thing is wrong 
+java.lang.ArithmeticException: / by zero
+	at test.log4j.HelloExample2.divide(HelloExample2.java:24)
+	at test.log4j.HelloExample2.main(HelloExample2.java:14)
+2016-07-09 13:35:07 ERROR HelloExample2:16 - some thing is wrong java.lang.ArithmeticException: / by zero
